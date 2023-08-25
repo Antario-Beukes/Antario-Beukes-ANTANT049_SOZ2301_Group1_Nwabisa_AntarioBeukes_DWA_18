@@ -131,7 +131,7 @@ To run the project locally, follow these steps:
 
 ## Deployment
 
-The project is deployed to a custom Netlify URL: [https://your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)
+The project is deployed to a custom Netlify URL: (https://tubular-churros-f73a25.netlify.app/)
 
 ## Usage
 
