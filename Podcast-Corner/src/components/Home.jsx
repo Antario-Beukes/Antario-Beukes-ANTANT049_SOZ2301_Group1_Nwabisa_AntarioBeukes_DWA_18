@@ -57,6 +57,11 @@ const Home = ({ onPodcastClick, selectedPodcast }) => {
     show.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
+
+  function filterByValue(array, string) {
+    return array.filter(o =>
+      Object.keys(o).some(k => o[k].toString().toLowerCase().includes(string.toLowerCase())));
+  }
   
   // Filter podcasts based on selected genre
   const genreFilteredPodcasts = selectedGenre
