@@ -131,7 +131,7 @@ To run the project locally, follow these steps:
 
 ## Deployment
 
-The project is deployed to a custom Netlify URL: https://tubular-churros-f73a25.netlify.app/
+The project is deployed to a custom Netlify URL: https://podcast-corner.netlify.app/
 
 ## Usage
 
